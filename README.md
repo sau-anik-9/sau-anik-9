@@ -1,17 +1,17 @@
 <h1 align="center"/><img src="https://readme-typing-svg.herokuapp.com?font=Single+Day&size=60&duration=1&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&random=false&width=600&height=100&lines=Hey%F0%9F%91%8B%F0%9F%8F%BC%2C++I'm+Anik+Sau" alt="Typing SVG" />
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=40&duration=1900&pause=500&color=F7F7F7&center=true&vCenter=true&random=false&width=600&height=60&lines=Web+Developer;Cloud+Practitioner;AI+Enthusiast" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=40&duration=1900&pause=500&color=F7F7F7&center=true&vCenter=true&random=false&width=600&height=60&lines=Web+Developer;Cloud+Practitioner;AI+Enthusiast" alt="Typing SVG" ></p>
 
 <h6> </h6>
 
-<img align="right" alt="coding" height="350" width="450" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif">
+<img align="right" alt="coding" height="35%" width="45%" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sau-anik-9&label=Profile%20views&color=0e75b6&style=flat" alt="Views Count" />
-  <img src="https://img.shields.io/github/followers/sau-anik-9?label=Followers&logo=GitHub&style=for-the-badge&style=flat" alt="Followers" hspace="20"/>
+  <img src="https://komarev.com/ghpvc/?username=sau-anik-9&label=Profile%20views&color=0e75b6&style=flat" alt="Views Count">
+  <img src="https://img.shields.io/github/followers/sau-anik-9?label=Followers&logo=GitHub&style=for-the-badge&style=flat" alt="Followers" hspace="20">
 </p>
 
-## A passionate Developer from India!!
+### A passionate Developer from India!!
 
 - 🔭 I’m currently working on **LLMs an GANs**
 
