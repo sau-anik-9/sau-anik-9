@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/github/followers/sau-anik-9?label=Followers&logo=GitHub&style=for-the-badge&style=flat" alt="Followers" hspace="20">
 </p>
 
-<h2>A passionate Developer from India!!</h2>  
+<h3>A passionate Developer from India!!</h3>  
 
 <br>
 
