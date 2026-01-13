@@ -56,11 +56,3 @@
 
 
 <p><br></p>
-
-## 📈 Github Stats:
-
-<p><img align="left" height="40%" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sau-anik-9&show_icons=true&locale=en&layout=compact&theme=radical" alt="sau-anik-9" /></p>
-
-<p>&nbsp;<img align="center" height="60%" width="60%" src="https://github-readme-stats.vercel.app/api?username=sau-anik-9&show_icons=true&locale=en&theme=radical" alt="sau-anik-9" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sau-anik-9&theme=radical" alt="sau-anik-9" /></p>
