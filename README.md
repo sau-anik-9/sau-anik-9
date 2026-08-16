@@ -35,7 +35,6 @@
 [<img align="left" alt="Twitter" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" />][Twitter]
 [<img align="left" alt="Instagram" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][Instagram]
 [<img align="left" alt="LeetCode" height="40" width="40" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" />][LeetCode]
-[<img align="left" alt="HackerRank" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/HackerRank_Icon-1000px.png/800px-HackerRank_Icon-1000px.png" />][HackerRank]
 
 <br>
 <br>
@@ -45,7 +44,6 @@
 [Linkedin]: https://www.linkedin.com/in/anik-sau47
 [Instagram]: https://www.instagram.com/anik_sau.43
 [LeetCode]: https://leetcode.com/sau-anik-9
-[HackerRank]: https://www.hackerrank.com/profile/as6982
 
 
 ## Languages and Tools:
