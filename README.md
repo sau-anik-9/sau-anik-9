@@ -21,7 +21,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud/AI projects**
 
-- 📫 How to reach me **sauanik47@gmail.com**
+- 📫 How to reach me **sauanik93@gmail.com**
 
 - 📄 Know about my experiences **[AS/Resume](https://sau-anik-9.github.io/resume/ANIK-SAU-Resume.pdf)**
 
@@ -42,7 +42,7 @@
 
 [Twitter]: https://twitter.com/sau_anik
 [Linkedin]: https://www.linkedin.com/in/anik-sau47
-[Instagram]: https://www.instagram.com/anik_sau.43
+[Instagram]: https://www.instagram.com/anik.sau.43
 [LeetCode]: https://leetcode.com/sau-anik-9
 
 
