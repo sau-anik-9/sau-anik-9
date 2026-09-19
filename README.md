@@ -33,7 +33,6 @@
 
 [<img align="left" alt="LinkedIn" height="40" width="40" src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" />][Linkedin]
 [<img align="left" alt="Twitter" height="40" width="40" src="https://cdn-icons-png.flaticon.com/128/5969/5969020.png" />][Twitter]
-[<img align="left" alt="Instagram" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" />][Instagram]
 [<img align="left" alt="LeetCode" height="40" width="40" src="https://user-images.githubusercontent.com/63964149/152531278-5e01909d-0c2e-412a-8acc-4a06863c244d.png" />][LeetCode]
 
 <br>
